@@ -1,0 +1,33 @@
+.sideNavi {
+    position: absolute;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 15%;
+    background-color: #0ba8f3!important;
+}
+.dropdown-item:hover {
+    background-color: #055a81!important;
+}
+.btn-info {
+    background-color: #0ba8f3!important;
+}
+.btn-info:hover {
+    background-color: #0ba8f3!important;
+}
+
+.btn-menu {
+    background-color: #0ba8f3;
+    border-top-left-radius: 0!important;
+    border-top-right-radius: 0!important;
+    border: none;
+}
+.btn-menu:focus{
+    background-color: #0ba8f3;
+}
+.btn-menu:hover {
+    background-color: #055a81;
+    color: white;
+}
+.sideNavi > a {
+    color: white;
+}

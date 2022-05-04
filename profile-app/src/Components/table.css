@@ -1,0 +1,36 @@
+.content {
+    padding: 15px;
+}
+.table {
+    color: #333392;
+}
+.table > thead > tr, .table > tbody > tr {
+    color: white!important;
+}
+.table > thead > tr > th:nth-child(1), .table > tbody > tr > td:nth-child(1) {
+    width: 150px;
+    text-align: center;
+}
+.table > thead > tr > th:nth-child(2), .table > tbody > tr > td:nth-child(2) {
+    width: 100px;
+    text-align: center;
+}
+.table > thead > tr > th:nth-child(3), .table > tbody > tr > td:nth-child(3) {
+    width: 100px;
+    text-align: center;
+}
+.table > thead > tr > th:nth-child(4), .table > tbody > tr > td:nth-child(4) {
+    width: 150px;
+    text-align: center;
+}
+.table > tbody > tr > td:nth-child(6) > textarea {
+    width: 100%;
+}
+
+
+.pfp {
+    width: 200px;
+}
+.breakLine {
+    border-bottom: 2px solid #333392;
+}
